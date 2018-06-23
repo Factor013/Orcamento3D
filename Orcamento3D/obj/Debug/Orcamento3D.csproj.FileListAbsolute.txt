@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\bin\Debug\Orcamento3D.exe.config
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\bin\Debug\Orcamento3D.exe
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\bin\Debug\Orcamento3D.pdb
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\obj\Debug\Orcamento3D.csprojResolveAssemblyReference.cache
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\obj\Debug\Orcamento3D.Form1.resources
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\obj\Debug\Orcamento3D.Properties.Resources.resources
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\obj\Debug\Orcamento3D.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\obj\Debug\Orcamento3D.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\obj\Debug\Orcamento3D.exe
+C:\Users\rafae\source\repos\Orcamento3D\Orcamento3D\obj\Debug\Orcamento3D.pdb

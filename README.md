@@ -20,4 +20,4 @@ Simple system to help you create 3D printing quotes.
 
 
 ## Obs
-Windows may say that it is a malicious program
+Windows may say it's a malicious program but it's just some signature I missed. I think

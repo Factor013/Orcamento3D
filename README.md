@@ -13,4 +13,11 @@ Simple system to help you create 3D printing quotes.
 ## Use
 
 1. Download the executable (https://github.com/Factor013/Orcamento3D/releases).
-3. Run the file `Orcamento3D.exe`.
+2. Run the file `Orcamento3D.exe`.
+3. You can save preferences using the button: <img src="https://github.com/Factor013/Orcamento3D/assets/28853497/c018d38b-315d-461d-8fdd-de086ff32502">
+4. You can also load them if they have already been saved in: <img src="https://github.com/Factor013/Orcamento3D/assets/28853497/24ae9d6f-1ccd-4461-ba40-e6aa094ef4ed">
+
+
+
+## Obs
+Windows may say that it is a malicious program

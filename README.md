@@ -6,9 +6,11 @@
 
 Simple system to help you create 3D printing quotes.
 
+<p align="center">
 <img src="https://images2.imgbox.com/3b/d7/nQF4zlnf_o.jpeg" alt="image host"/>
+</p>
 
-## To execute
+## Use
 
 1. Download the executable (https://github.com/Factor013/Orcamento3D/releases).
 3. Run the file `Orcamento3D.exe`.

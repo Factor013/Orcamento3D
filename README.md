@@ -5,7 +5,7 @@
 
 Simple system to help you create 3D printing quotes.
 
-<img src="https://thumbs2.imgbox.com/3b/d7/nQF4zlnf_t.jpeg" alt="image host"/>
+<img src="https://images2.imgbox.com/3b/d7/nQF4zlnf_o.jpeg" alt="image host"/>
 
 ## To execute
 

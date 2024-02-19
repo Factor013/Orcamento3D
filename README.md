@@ -1,4 +1,4 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/.NetDesktop%20-%20grey?label=C%23&labelColor=purple"><img alt="Static Badge" src="https://img.shields.io/badge/1.0.0%20-%20grey?label=Version&labelColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/.NetDesktop%20-%20grey?label=C%23&labelColor=purple">     <img alt="Static Badge" src="https://img.shields.io/badge/1.0.0%20-%20grey?label=Version&labelColor=blue">
 # Orçamento3D
 
 Simple system to help you create 3D printing quotes.

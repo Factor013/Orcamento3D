@@ -23,4 +23,4 @@ Simple system to help you create 3D printing quotes.
 Windows may say it's a malicious program but it's just some signature I missed. I think
 
 ##
-<a href="https://www.buymeacoffee.com/Factor013" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 197px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Factor013" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 197px !important;" ></a>

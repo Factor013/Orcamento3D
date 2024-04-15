@@ -4,7 +4,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/1.0.0%20-%20grey?label=Version&labelColor=blue">
 </p>
 
-Simple system to help you create 3D printing quotes.
+Simple system to help you create 3D printing budget.
 
 <p align="center">
 <img src="https://images2.imgbox.com/3b/d7/nQF4zlnf_o.jpeg" alt="image host"/>
